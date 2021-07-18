@@ -1,3 +1,4 @@
+#exercize with some build in oop functions
 
 import math
 
