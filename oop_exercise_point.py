@@ -1,4 +1,4 @@
-#exercize with some build in oop functions
+#exercize with some build in oop functions(magic function)
 
 import math
 
